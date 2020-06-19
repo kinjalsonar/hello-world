@@ -1,6 +1,7 @@
 # hello-world
-Hello people
+Hello people!!!
 
-I m student who dont like books.
-I love to watch cartoons and like to eat all the time.
-Hate maths!!!
+I am student learning python,Machine learning and Data Science.
+Wanted to make more respositories about the above topics.
+
+
